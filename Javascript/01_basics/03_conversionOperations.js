@@ -106,3 +106,11 @@ console.log(typeof logged);
 let booleanLogged = Boolean(logged)
 console.log(typeof booleanLogged);
 console.log(booleanLogged);
+
+
+let somenum = 33
+console.log(somenum);
+let stringNumber = String(somenum)
+console.log(stringNumber);
+console.log(typeof stringNumber);
+

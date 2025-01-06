@@ -113,4 +113,3 @@ console.log(somenum);
 let stringNumber = String(somenum)
 console.log(stringNumber);
 console.log(typeof stringNumber);
-

@@ -44,7 +44,7 @@ console.log(typeof milk);
 let valueIn = Number(milk)
 console.log(typeof valueIn);
 console.log(valueIn);
-
+console.log(typeof (typeof milk));
 console.log("----------------");
 
 console.log(ans);
@@ -119,3 +119,7 @@ console.log(somenumber);
 let boolNum = Boolean(somenumber)
 console.log(boolNum);
 console.log(typeof boolNum);
+
+
+let a = [1, 2, 3]
+console.log(typeof a);

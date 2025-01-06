@@ -113,3 +113,9 @@ console.log(somenum);
 let stringNumber = String(somenum)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+let somenumber = "0"
+console.log(somenumber);
+let boolNum = Boolean(somenumber)
+console.log(boolNum);
+console.log(typeof boolNum);
